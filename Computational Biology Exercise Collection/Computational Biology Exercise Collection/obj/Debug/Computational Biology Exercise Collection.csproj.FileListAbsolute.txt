@@ -1,0 +1,6 @@
+c:\users\기본사용자\documents\visual studio 2015\Projects\Computational Biology Exercise Collection\Computational Biology Exercise Collection\bin\Debug\Computational Biology Exercise Collection.exe.config
+c:\users\기본사용자\documents\visual studio 2015\Projects\Computational Biology Exercise Collection\Computational Biology Exercise Collection\bin\Debug\Computational Biology Exercise Collection.exe
+c:\users\기본사용자\documents\visual studio 2015\Projects\Computational Biology Exercise Collection\Computational Biology Exercise Collection\bin\Debug\Computational Biology Exercise Collection.pdb
+c:\users\기본사용자\documents\visual studio 2015\Projects\Computational Biology Exercise Collection\Computational Biology Exercise Collection\obj\Debug\Computational Biology Exercise Collection.exe
+c:\users\기본사용자\documents\visual studio 2015\Projects\Computational Biology Exercise Collection\Computational Biology Exercise Collection\obj\Debug\Computational Biology Exercise Collection.pdb
+C:\Users\기본사용자\documents\visual studio 2015\Projects\Computational Biology Exercise Collection\Computational Biology Exercise Collection\obj\Debug\Computational Biology Exercise Collection.csprojResolveAssemblyReference.cache
